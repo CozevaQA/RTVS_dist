@@ -569,8 +569,15 @@ def MSPLScoreCheck(driver,ws, wb, LOB_Name, Measure):
             Network_comment = "Passed"
         else:
             Network_comment = "Failed"
-    except (NoSuchElementException, ElementNotInteractableException, ElementClickInterceptedException, ElementNotVisibleException, TimeoutException, ElementNotSelectableException):
+    except (NoSuchElementException, ElementNotInteractableException, ElementClickInterceptedException, ElementNotVisibleException, TimeoutException, ElementNotSelectableException) as e:
+        traceback.print_exc()
+        print(e)
+        print("Network Tab not Clickable!")
         Network_comment = "The Network tab is not clickable"
+    except Exception as e:
+        print(e)
+        traceback.print_exc()
+        print("2nd Except Clause")
     onlyfiles = [f for f in listdir(locator.download_dir) if isfile(join(locator.download_dir, f))]
     path = locator.download_dir + onlyfiles[0]
     result = csvAddition(path)
