@@ -895,7 +895,7 @@ PatientDashboardFlag = hcc_data_list[4]
 print("Hello", Selected_checklist)
 Selected_LOB = ["Medicare", "ALL"]
 id_list = ["Review of Chronic Conditions (Blended)", "Review of Chronic Conditions (Risk Adjustment Version 24)", "One-Year Recapture Rate (Blended)", "One-Year Recapture Rate (Risk Adjustment Version 24)"]
-customer_list = ["U.S. Renal Care", "Healthnet", "L.A. Care"]
+customer_list = ["U.S. Renal Care", "Healthnet", "L.A. Care", "Molina Healthcare"]
 driver = setups.driver
 
 if len(Selected_checklist) == 0:
@@ -1129,7 +1129,11 @@ for i in range(0, len(URL_name_registry_list), 3):
             SheetColorCoder(ws, wb, path1, filename)
             sf.ajax_preloader_wait(driver)
             ws = wb["Patient Dashboard"]
-            PatientDashboardScoreCheck(driver, patient_count, ws, wb, LOB, measure)
+            print("Patient flag: " + str(patient_flag))
+            if patient_flag != 0:
+                PatientDashboardScoreCheck(driver, patient_count, ws, wb, LOB, measure)
+            else:
+                print("Patient Dashboard Score check skipped")
             SheetColorCoder(ws, wb, path1, filename)
     except (NoSuchElementException, ElementNotInteractableException, ElementClickInterceptedException, ElementNotVisibleException, TimeoutException, ElementNotSelectableException) as e:
         ws.append([db.fetchCustomerName(Customer_value), LOB, measure, "Issue: Blank MSPL encountered","NA",driver.current_url])
