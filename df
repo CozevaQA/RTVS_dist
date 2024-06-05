@@ -1,0 +1,319 @@
+[33mcommit f5a9ea710b92de87294dc69da42128ad77d36346[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: wdey <wdey@cozeva.com>
+Date:   Wed Jun 5 15:35:54 2024 +0530
+
+    Chrome 125 support
+
+[33mcommit 2537a632b34310a2f6bde9c6eea6d4ad1408da6c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 31 10:34:21 2024 +0530
+
+    Exports and filters3
+
+[33mcommit 5de699e94d48cf0f1771ec1b6bddb18a691aef7a[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 31 10:24:45 2024 +0530
+
+    Exports and filters2
+
+[33mcommit ccbac25e1610adad03561b78ed8d47e4f5e96f0f[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu May 30 14:50:12 2024 +0530
+
+    Exports and filters
+
+[33mcommit e4d3b2863a8af2d86e444631275f3b61acb3178b[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 24 10:29:25 2024 +0530
+
+    Practice Registry fix
+
+[33mcommit 2731d061036f1466ee27880629e93046ce2c746a[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 10 15:51:47 2024 +0530
+
+    contact log design change
+
+[33mcommit 2b81c57a96759dfd95e33948fc0cd3c37ee04550[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 10 12:54:51 2024 +0530
+
+    contact log fix
+
+[33mcommit 937583243d14e5447669c2328a057660518d81d1[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri May 10 12:27:40 2024 +0530
+
+    contact log
+
+[33mcommit 83f2c1704fd765ac69106357a2a625dd21282c0c[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu May 9 18:12:09 2024 +0530
+
+    Analytics Fix
+
+[33mcommit f8d0e8102a26ddc0cf8f94b94a3a2b2495fb544d[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Apr 25 16:50:25 2024 +0530
+
+    Analytics/Global search settings, cosmetics
+
+[33mcommit fd70cd8e6555e22511cabfedbecc0a2502a113dd[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Apr 25 16:31:33 2024 +0530
+
+    Analytics/Global search settings
+
+[33mcommit 18c12d07391da07ff73df163cf0ea850949213d2[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Apr 23 12:37:10 2024 +0530
+
+    Chromedriver 124
+
+[33mcommit 3f4f6a5843399cb96590c91d3345eb9399bfc2c5[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Apr 5 16:07:07 2024 +0530
+
+    Edgedriver
+
+[33mcommit d6618f3130c45846195bb6d29425e06b146509b9[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Apr 5 12:46:30 2024 +0530
+
+    Reverse MY
+
+[33mcommit 3e3d58a93862848cf32a486a2b18de00f2dd5fb7[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Apr 5 12:36:24 2024 +0530
+
+    Selectable MY, Help Icon dropdown, REL Graph, Analytics Deep link
+
+[33mcommit 46cecc8286ba36b7d6737b8a27b5589794ee84f2[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Mar 28 16:22:06 2024 +0530
+
+    customer DB update
+
+[33mcommit f44a544abd5ecdb01cc9f4bb5a5d24de611d49e7[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Mar 26 17:33:51 2024 +0530
+
+    schemafix
+
+[33mcommit 62c8de24cedb9f1bdee4f1077678ec4fe0496187[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Mar 26 17:01:24 2024 +0530
+
+    Cdriver 123
+
+[33mcommit bd689821750addb6ba7234bfc1eb59e31aeb00f0[m
+Author: wdey <wdey@cozeva.com>
+Date:   Wed Feb 28 16:30:25 2024 +0530
+
+    Test commit
+
+[33mcommit 592808dc28d5f75d27ea1fc9f6a28f9abd4ce872[m
+Author: wdey <wdey@cozeva.com>
+Date:   Wed Feb 28 15:46:42 2024 +0530
+
+    Client count tracker
+
+[33mcommit ce31f497303ca6f5a952acfc01b26ed359762f56[m
+Author: wdey <wdey@cozeva.com>
+Date:   Wed Feb 28 15:38:58 2024 +0530
+
+    chrome 122 and username sync
+
+[33mcommit db7b7065a95c2c137c0574a843040f535100b1fc[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 23 19:06:11 2024 +0530
+
+    WHA miss
+
+[33mcommit b61dddf50175a531182aaf129c84ce954864c3cc[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Feb 22 17:45:10 2024 +0530
+
+    Storage slow long sync
+
+[33mcommit 23a0b4ace6f13891af51776aafae456578a6e5b5[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 16 11:33:40 2024 +0530
+
+    providence OA
+
+[33mcommit 1d4717ab306eedd2437e45b58fec472d416413ff[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 16 10:51:33 2024 +0530
+
+    xyz
+
+[33mcommit a33e777e85fda30d081be357aa49a6ff9dea5b69[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 16 10:44:00 2024 +0530
+
+    Overwatchonshore
+
+[33mcommit 60f78968b71abb9533a876244a5964c20f9c306c[m
+Author: wdey <wdey@cozeva.com>
+Date:   Wed Feb 14 15:34:24 2024 +0530
+
+    final edge driver update
+
+[33mcommit cb3f7053881226b32cfa4ee52a6a0336aa0eaff7[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Feb 13 17:37:15 2024 +0530
+
+    Edge Browser
+
+[33mcommit dc5c2492c2e4c73637e3a76b529bfeebafdf1902[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 9 17:12:04 2024 +0530
+
+    customerdbupdate
+
+[33mcommit 61312f45a7c175b44476386dbc63b1dab8baffea[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 2 13:04:14 2024 +0530
+
+    follow up pre commit
+
+[33mcommit 07a9dd1fb861145f4133c0c53eb84cd2b8a16bf1[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 2 13:00:26 2024 +0530
+
+    chromeprofile expiry 29 days
+
+[33mcommit 8fe2576b1e9030d985c9be5176b864bc6e476a0e[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 2 12:13:26 2024 +0530
+
+    BTP RM update
+
+[33mcommit d3deed295243a915534f7f85aa787ade359ca6ba[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Feb 2 10:50:25 2024 +0530
+
+    Filter Validation prod
+
+[33mcommit 4be37d673f832c7d6bcce438a17499c51a036eec[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Feb 1 16:49:56 2024 +0530
+
+    EULA skip
+
+[33mcommit 0be2dd5a9e32af6dc1c61edcaa29baad296a580c[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Jan 30 15:24:08 2024 +0530
+
+    Filter handler analytics and cozeva filter
+
+[33mcommit 7b1b7da5892334b9c2953959404b145db53a77fa[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Jan 30 15:06:45 2024 +0530
+
+    Chromedriver 121
+
+[33mcommit 58e4a99b74eb52f4536c8dfe30acb4e159dda474[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Nov 23 10:51:31 2023 +0530
+
+    Announcement exception handling
+
+[33mcommit 3645115698755a88292aed91ef28051d4576a1a9[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Nov 10 15:05:22 2023 +0530
+
+    Chromedriver 119
+
+[33mcommit f5c44c3d519d4e1571a4714c7c34acb8167d6af1[m
+Author: wdey <wdey@cozeva.com>
+Date:   Mon Oct 30 18:14:23 2023 +0530
+
+    Imperial Health CU user
+
+[33mcommit e4306a98ae008dcc0f07775ad1114b7c0baefe68[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 12 17:30:24 2023 +0530
+
+    HCCv28 unhacking molina
+
+[33mcommit eba5d3daee7e8d266fd31b0b6c2232e483792764[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 12 16:38:37 2023 +0530
+
+    ccd modal, careops fix
+
+[33mcommit b5d783a70c92c27958b2b16c3a4108c5982e8d94[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 12 14:21:54 2023 +0530
+
+    Cdriver 118
+
+[33mcommit 1647e6903d45a3ca37ed6b0b1a280b89f1395440[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 5 17:57:49 2023 +0530
+
+    PDC fix
+
+[33mcommit 04328f5ba95162de37280169c5815e9028247fe1[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 5 17:33:21 2023 +0530
+
+    Add analytics to overwatch
+
+[33mcommit e9e8c869f0e9cdc0f292c8df9ab8ebfe7465ccbc[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 5 17:15:00 2023 +0530
+
+    Announcement remove support
+
+[33mcommit 01aec14c9f03d44db6043064d46fdb52d24bd5b3[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Oct 5 16:43:02 2023 +0530
+
+    Fix for careops, and medication
+
+[33mcommit f01d4aefa45129a1ec694ad7b5ac37453b303c53[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Sep 15 11:17:11 2023 +0530
+
+    ChromeProfile OTPs
+
+[33mcommit 75e89a9f54d6d5b6394cbe1b95370309cf6448bb[m
+Author: wdey <wdey@cozeva.com>
+Date:   Fri Aug 18 14:32:52 2023 +0530
+
+    Hcc v28 Validation Fix
+
+[33mcommit f9340e1a72f1022de766127c1721cff34bc7b2ef[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Aug 17 12:56:31 2023 +0530
+
+    Chromedriver 116
+
+[33mcommit dc45f4ce9f3a2d61d7e01a22317df4c63afbd144[m
+Author: wdey <wdey@cozeva.com>
+Date:   Tue Aug 8 17:55:11 2023 +0530
+
+    Color Fun
+
+[33mcommit 476b13612f3a6444498104b54ca86e4350850f17[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Aug 3 22:39:02 2023 +0530
+
+    Hcc v28 file
+
+[33mcommit a1dc0102c24996e84abc0bafea3285c2f72adf96[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Aug 3 18:32:09 2023 +0530
+
+    HCC v28 new validation
+
+[33mcommit f1ca92bbddd77252ed09c272acae2d5d02472cbb[m
+Author: wdey <wdey@cozeva.com>
+Date:   Thu Jul 27 17:50:19 2023 +0530
+
+    Test Commit for Ritam
+
+[33mcommit 554ed942a4
