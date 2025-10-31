@@ -34,7 +34,6 @@ from openpyxl.formatting import Rule
 from openpyxl.styles import *
 from openpyxl.styles.differential import DifferentialStyle
 from selenium.webdriver.common.keys import Keys
-import self as self
 from PIL import ImageTk, Image
 from tkinter import messagebox
 
